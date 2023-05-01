@@ -1,4 +1,4 @@
-# Internet Connectivity using FLutter Bloc
+# Internet Connectivity using Flutter Bloc
 
 ##### Important packages to install:
  - connectivity_plus
